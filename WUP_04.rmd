@@ -50,7 +50,7 @@ basicCN <- ggplot(gssdata,aes(x=DEGREE,y=WORDSUM))
 basicCN + geom_boxplot()
 ```
 
-th box for LT high school is different from the one of the junior college and also from the box of the graduate since the two would be different one would slide those three between each other they would be as described in a different space, that would lead me to believe that are different.  
+th box for LT high school is different from the one of the junior college and also from the box of the graduate since the two would be different one would slide those three between each other they would be as described in a different space, that would lead me to believe that are different.
 
 ### Numerical Descriptive Results
 
